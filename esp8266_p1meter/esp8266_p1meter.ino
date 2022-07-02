@@ -13,6 +13,9 @@
 // * Include settings
 #include "settings.h"
 
+// #define LED_BUILTIN 2
+
+
 // * Initiate led blinker library
 Ticker ticker;
 
